@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Font1",
+  "%Name":"fnt_fira_code",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":15,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":20,
   "maintainGms1Font":false,
-  "name":"Font1",
+  "name":"fnt_fira_code",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",

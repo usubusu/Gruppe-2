@@ -37,7 +37,7 @@
   },
   "name":"Wheelie Shootie",
   "resources":[
-    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"fnt_fira_code","path":"fonts/fnt_fira_code/fnt_fira_code.yy",},},
     {"id":{"name":"Pellet","path":"objects/Pellet/Pellet.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"PlayerTestingRoom","path":"rooms/PlayerTestingRoom/PlayerTestingRoom.yy",},},
