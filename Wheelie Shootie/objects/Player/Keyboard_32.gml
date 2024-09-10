@@ -1,5 +1,6 @@
 /// @description Shoot Pellet
 if (can_fire && ammo != 0){
+	reload_step = 0;
 	instance_create_layer(x + 0, y - sprite_width/2, "Instances", Pellet);
 	ammo -= 1;
 	is_reloaded = false;
