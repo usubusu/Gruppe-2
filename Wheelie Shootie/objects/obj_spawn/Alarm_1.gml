@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Random.Get_Random_Number
+/// @DnDVersion : 1
+/// @DnDHash : 79FA6006
+/// @DnDArgument : "var" "random_x"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "max" "1366"
+random_x = floor(random_range(0, 1366 + 1));
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 01026E9F
