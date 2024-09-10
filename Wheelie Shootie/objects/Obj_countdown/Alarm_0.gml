@@ -11,3 +11,15 @@ timer += -1;
 /// @DnDHash : 173E6B97
 /// @DnDArgument : "steps" "120"
 alarm_set(0, 120);
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 109EE7BB
+/// @DnDArgument : "var" "timer"
+if(timer == 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 6ABBFC57
+	/// @DnDParent : 109EE7BB
+	/// @DnDArgument : "room" "End_Room"
+	/// @DnDSaveInfo : "room" "End_Room"
+	room_goto(End_Room);}

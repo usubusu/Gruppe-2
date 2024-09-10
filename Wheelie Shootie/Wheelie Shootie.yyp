@@ -42,6 +42,7 @@
     {"id":{"name":"End_Room","path":"rooms/End_Room/End_Room.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Score_and_countdown","path":"sequences/Score_and_countdown/Score_and_countdown.yy",},},
+    {"id":{"name":"End_Room_background","path":"sprites/End_Room_background/End_Room_background.yy",},},
     {"id":{"name":"HUD_background","path":"sprites/HUD_background/HUD_background.yy",},},
   ],
   "resourceType":"GMProject",
