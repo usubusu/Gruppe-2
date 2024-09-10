@@ -15,6 +15,7 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Game_manager","folderPath":"folders/Objects/Game_manager.yy","name":"Game_manager","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"HUD","folderPath":"folders/Objects/HUD.yy","name":"HUD","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -36,6 +37,7 @@
   "name":"Wheelie Shootie",
   "resources":[
     {"id":{"name":"Obj_countdown","path":"objects/Obj_countdown/Obj_countdown.yy",},},
+    {"id":{"name":"Obj_game_manager","path":"objects/Obj_game_manager/Obj_game_manager.yy",},},
     {"id":{"name":"obj_hud_background","path":"objects/obj_hud_background/obj_hud_background.yy",},},
     {"id":{"name":"Obj_score","path":"objects/Obj_score/Obj_score.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
