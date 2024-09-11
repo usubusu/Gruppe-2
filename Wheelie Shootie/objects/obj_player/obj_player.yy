@@ -48,8 +48,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"PlayerSprite",
-    "path":"sprites/PlayerSprite/PlayerSprite.yy",
+    "name":"Hull",
+    "path":"sprites/Hull/Hull.yy",
   },
   "spriteMaskId":null,
   "visible":true,
