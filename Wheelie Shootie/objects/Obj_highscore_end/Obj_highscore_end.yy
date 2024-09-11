@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_score",
-  "eventList":[],
+  "%Name":"Obj_highscore_end",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_score",
+  "name":"Obj_highscore_end",
   "overriddenProperties":[],
   "parent":{
     "name":"HUD",
