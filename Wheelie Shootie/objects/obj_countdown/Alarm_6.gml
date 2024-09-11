@@ -17,7 +17,8 @@ alarm_set(6, 60);
 /// @DnDVersion : 1
 /// @DnDHash : 109EE7BB
 /// @DnDArgument : "var" "timer"
-if(timer == 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDArgument : "op" "3"
+if(timer <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 6ABBFC57
 	/// @DnDParent : 109EE7BB
