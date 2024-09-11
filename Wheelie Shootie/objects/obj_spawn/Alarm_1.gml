@@ -3,8 +3,9 @@
 /// @DnDHash : 79FA6006
 /// @DnDArgument : "var" "random_x"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "max" "1366"
-random_x = floor(random_range(0, 1366 + 1));
+/// @DnDArgument : "min" "screen_min"
+/// @DnDArgument : "max" "screen_max"
+random_x = floor(random_range(screen_min, screen_max + 1));
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1

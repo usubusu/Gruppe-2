@@ -1,5 +1,16 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 50FF5B5A
+/// @DnDInput : 2
+/// @DnDArgument : "expr" "100"
+/// @DnDArgument : "expr_1" "1250"
+/// @DnDArgument : "var" "screen_min"
+/// @DnDArgument : "var_1" "screen_max"
+screen_min = 100;
+screen_max = 1250;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 6709583A
 /// @DnDArgument : "expr" "random(window_get_width())"
 /// @DnDArgument : "var" "random_x"

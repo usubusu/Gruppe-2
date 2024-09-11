@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
-/// @DnDHash : 3BC13EAD
+/// @DnDHash : 377AA59C
 /// @DnDArgument : "var" "random_x"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "min" "screen_min"
@@ -9,7 +9,7 @@ random_x = floor(random_range(screen_min, screen_max + 1));
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 5216B941
+/// @DnDHash : 059AAD4D
 /// @DnDArgument : "xpos" "random_x"
 /// @DnDArgument : "objectid" "obj_wheel"
 /// @DnDSaveInfo : "objectid" "obj_wheel"
