@@ -6,6 +6,8 @@ draw_set_alpha(1);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 04E97275
+/// @DnDArgument : "x" "10"
+/// @DnDArgument : "y" "15"
 /// @DnDArgument : "caption" ""Time left: ""
 /// @DnDArgument : "var" "timer"
-draw_text(0, 0, string("Time left: ") + string(timer));
+draw_text(10, 15, string("Time left: ") + string(timer));

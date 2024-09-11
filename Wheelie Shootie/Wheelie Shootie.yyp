@@ -58,7 +58,6 @@
     {"id":{"name":"obj_turret","path":"objects/obj_turret/obj_turret.yy",},},
     {"id":{"name":"obj_wheel","path":"objects/obj_wheel/obj_wheel.yy",},},
     {"id":{"name":"End_Room","path":"rooms/End_Room/End_Room.yy",},},
-    {"id":{"name":"PlayerTestingRoom","path":"rooms/PlayerTestingRoom/PlayerTestingRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Score_and_countdown","path":"sequences/Score_and_countdown/Score_and_countdown.yy",},},
     {"id":{"name":"BG01","path":"sprites/BG01/BG01.yy",},},
@@ -90,7 +89,6 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"End_Room","path":"rooms/End_Room/End_Room.yy",},},
-    {"roomId":{"name":"PlayerTestingRoom","path":"rooms/PlayerTestingRoom/PlayerTestingRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
