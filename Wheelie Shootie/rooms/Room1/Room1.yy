@@ -5,8 +5,11 @@
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
-  "instanceCreationOrder":[
-    {"name":"inst_7E6DC9BC","path":"rooms/Room1/Room1.yy",},
+  "instanceCreationOrder":[]
+  "instanceCreationOrder":[],
+  "isDnd":false,
+  "layers":[
+
   ],
   "isDnd":false,
   "layers":[],
