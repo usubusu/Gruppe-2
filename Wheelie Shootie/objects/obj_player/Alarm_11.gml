@@ -1,6 +1,6 @@
 /// @description Reload Delay
 
-if (reload_step < 5){
+if (reload_step < 8){
 	reload_step += 1;
 	alarm[11] = reload_delay;
 } else {

@@ -3,5 +3,5 @@
 if (x > 0){
 	if !is_stunned x -= SPEED;
 } else {
-	x += SPEED;
+	x = xprevious;
 }

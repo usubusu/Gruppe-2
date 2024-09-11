@@ -26,4 +26,4 @@ switch(_random_real){
 		break;
 }
 
-draw_self()
+draw_self();
