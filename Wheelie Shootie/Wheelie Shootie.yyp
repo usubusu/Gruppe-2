@@ -42,6 +42,7 @@
     {"id":{"name":"Obj_highscore_end","path":"objects/Obj_highscore_end/Obj_highscore_end.yy",},},
     {"id":{"name":"obj_hud_background","path":"objects/obj_hud_background/obj_hud_background.yy",},},
     {"id":{"name":"Obj_restart","path":"objects/Obj_restart/Obj_restart.yy",},},
+    {"id":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},},
     {"id":{"name":"End_Room","path":"rooms/End_Room/End_Room.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"End_Room_background","path":"sprites/End_Room_background/End_Room_background.yy",},},
