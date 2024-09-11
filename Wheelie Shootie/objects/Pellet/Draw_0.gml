@@ -1,5 +1,6 @@
 /// @description Color pellet
 // You can write your code in this editor
+_random_real = round(random_range(0,6));
 
 switch(_random_real){
 	case 0: 
