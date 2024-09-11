@@ -15,6 +15,9 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Player","folderPath":"folders/Objects/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects/Player/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Objects/Player/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"HUD","folderPath":"folders/Objects/HUD.yy","name":"HUD","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -32,10 +35,17 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.0.169",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Wheelie Shootie",
   "resources":[
+    {"id":{"name":"fnt_fira_code","path":"fonts/fnt_fira_code/fnt_fira_code.yy",},},
+    {"id":{"name":"Pellet","path":"objects/Pellet/Pellet.yy",},},
+    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"PlayerTestingRoom","path":"rooms/PlayerTestingRoom/PlayerTestingRoom.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"PelletSpirte","path":"sprites/PelletSpirte/PelletSpirte.yy",},},
+    {"id":{"name":"PlayerSprite","path":"sprites/PlayerSprite/PlayerSprite.yy",},},
     {"id":{"name":"Obj_countdown","path":"objects/Obj_countdown/Obj_countdown.yy",},},
     {"id":{"name":"obj_hud_background","path":"objects/obj_hud_background/obj_hud_background.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -46,6 +56,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"PlayerTestingRoom","path":"rooms/PlayerTestingRoom/PlayerTestingRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
