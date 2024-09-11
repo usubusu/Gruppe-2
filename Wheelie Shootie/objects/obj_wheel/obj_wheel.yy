@@ -35,6 +35,7 @@
     {"$GMObjectProperty":"v1","%Name":"SPEED","filters":[],"listItems":[],"multiselect":false,"name":"SPEED","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"2","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"_random","filters":[],"listItems":[],"multiselect":false,"name":"_random","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"_sprite","filters":[],"listItems":[],"multiselect":false,"name":"_sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"Enemy_A1","path":"sprites/Enemy_A1/Enemy_A1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Enemy_A1","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"time_reward","filters":[],"listItems":[],"multiselect":false,"name":"time_reward","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
