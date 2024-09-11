@@ -37,7 +37,6 @@
   },
   "name":"Wheelie Shootie",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Dead_Bush","path":"sprites/Dead_Bush/Dead_Bush.yy",},},
     {"id":{"name":"Enemy_A1","path":"sprites/Enemy_A1/Enemy_A1.yy",},},
     {"id":{"name":"Enemy_A2","path":"sprites/Enemy_A2/Enemy_A2.yy",},},
@@ -57,9 +56,7 @@
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-  ],
+  "RoomOrderNodes":[],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
