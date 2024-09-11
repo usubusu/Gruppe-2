@@ -31,6 +31,7 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"reward","filters":[],"listItems":[],"multiselect":false,"name":"reward","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"punishment","filters":[],"listItems":[],"multiselect":false,"name":"punishment","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"10","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"SPEED","filters":[],"listItems":[],"multiselect":false,"name":"SPEED","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"2","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
