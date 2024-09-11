@@ -47,7 +47,7 @@
     {"id":{"name":"End_Room_text1","path":"fonts/End_Room_text1/End_Room_text1.yy",},},
     {"id":{"name":"End_Room_text2","path":"fonts/End_Room_text2/End_Room_text2.yy",},},
     {"id":{"name":"fnt_fira_code","path":"fonts/fnt_fira_code/fnt_fira_code.yy",},},
-    {"id":{"name":"fnt_hd","path":"fonts/fnt_hd/fnt_hd.yy",},},
+    {"id":{"name":"fnt_hd_50","path":"fonts/fnt_hd_50/fnt_hd_50.yy",},},
     {"id":{"name":"DebugScreen","path":"objects/DebugScreen/DebugScreen.yy",},},
     {"id":{"name":"obj_countdown","path":"objects/obj_countdown/obj_countdown.yy",},},
     {"id":{"name":"obj_hud_background","path":"objects/obj_hud_background/obj_hud_background.yy",},},
