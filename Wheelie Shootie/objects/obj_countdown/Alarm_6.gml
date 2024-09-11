@@ -18,7 +18,15 @@ alarm_set(6, 60);
 /// @DnDHash : 109EE7BB
 /// @DnDArgument : "var" "timer"
 /// @DnDArgument : "op" "3"
-if(timer <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+if(timer <= 0){	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 7C1F5DF0
+	/// @DnDParent : 109EE7BB
+	/// @DnDArgument : "soundid" "snd_game_over"
+	/// @DnDSaveInfo : "soundid" "snd_game_over"
+	audio_play_sound(snd_game_over, 0, 0, 1.0, undefined, 1.0);
+
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 6ABBFC57
 	/// @DnDParent : 109EE7BB
