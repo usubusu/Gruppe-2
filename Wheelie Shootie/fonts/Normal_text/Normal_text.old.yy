@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Title",
+  "%Name":"Normal_text",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":61,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":75,
   "maintainGms1Font":false,
-  "name":"Title",
+  "name":"Normal_text",
   "parent":{
     "name":"Menu",
     "path":"folders/Fonts/Menu.yy",
