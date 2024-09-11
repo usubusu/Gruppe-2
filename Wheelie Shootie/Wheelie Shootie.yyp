@@ -49,6 +49,7 @@
     {"id":{"name":"Title","path":"fonts/Title/Title.yy",},},
     {"id":{"name":"obj_countdown","path":"objects/obj_countdown/obj_countdown.yy",},},
     {"id":{"name":"obj_hud_background","path":"objects/obj_hud_background/obj_hud_background.yy",},},
+    {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"obj_pellet","path":"objects/obj_pellet/obj_pellet.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},},
@@ -68,10 +69,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"PlayerTestingRoom","path":"rooms/PlayerTestingRoom/PlayerTestingRoom.yy",},},
     {"roomId":{"name":"End_Room","path":"rooms/End_Room/End_Room.yy",},},
-    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
