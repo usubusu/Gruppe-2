@@ -3,6 +3,7 @@
 /// @DnDHash : 2B279B50
 /// @DnDArgument : "obj" "obj_player"
 /// @DnDArgument : "not" "1"
+/// @DnDSaveInfo : "obj" "obj_player"
 var l2B279B50_0 = false;l2B279B50_0 = instance_exists(obj_player);if(!l2B279B50_0){	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
 	/// @DnDHash : 7F7514FE

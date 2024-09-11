@@ -29,7 +29,7 @@ switch(reload_step){
 		draw_set_alpha(1)
 		break;
 	default:
-		draw_set_color(c_white);
+		draw_set_color(c_green);
 		draw_set_alpha(1)
 		break;
 }
@@ -61,7 +61,7 @@ switch(ammo){
 		draw_set_alpha(1)
 		break;
 	default:
-		draw_set_color(c_white);
+		draw_set_color(c_green);
 		draw_set_alpha(1)
 		break;
 }
