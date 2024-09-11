@@ -5,12 +5,9 @@
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
-  "instanceCreationOrder":[
-    {"name":"inst_2CFDCFAF","path":"rooms/PlayerTestingRoom/PlayerTestingRoom.yy",},
-  ],
+  "instanceCreationOrder":[],
   "isDnd":false,
-  "layers":[
-  ],
+  "layers":[],
   "name":"PlayerTestingRoom",
   "parent":{
     "name":"Objects",

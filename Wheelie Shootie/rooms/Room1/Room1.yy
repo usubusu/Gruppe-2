@@ -5,12 +5,7 @@
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
-  "instanceCreationOrder":[]
   "instanceCreationOrder":[],
-  "isDnd":false,
-  "layers":[
-
-  ],
   "isDnd":false,
   "layers":[],
   "name":"Room1",
