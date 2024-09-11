@@ -9,8 +9,8 @@ timer += -1;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 173E6B97
-/// @DnDArgument : "steps" "120"
-alarm_set(0, 120);
+/// @DnDArgument : "steps" "10"
+alarm_set(0, 10);
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
