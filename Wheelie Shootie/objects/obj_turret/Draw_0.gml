@@ -8,6 +8,8 @@ if (_image_index == 116){
 }
 if (!halting){
 	_image_index += direction;
+} else {
+	draw_set_color(c_red)
 }
 image_index = round(_image_index/4);
 

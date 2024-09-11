@@ -3,7 +3,7 @@
 
 draw_set_font(fnt_fira_code);
 
-switch(reload_step){
+switch(round(reload_step/2)){
 	case 0: 
 		draw_set_color(c_black);
 		draw_set_alpha(0)
@@ -33,7 +33,7 @@ switch(reload_step){
 		draw_set_alpha(1)
 		break;
 }
-draw_rectangle(x, y-sprite_height/2, x+sprite_width/5*reload_step, y-sprite_height/2.5, false);
+draw_rectangle(x, y-sprite_height/2, x+sprite_width/max_ammo*reload_step, y-sprite_height/2.5, false);
 
 switch(ammo){
 	case 0: 

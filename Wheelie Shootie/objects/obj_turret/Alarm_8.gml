@@ -1,8 +1,8 @@
-_random = round(random_range(2,4));
+_random = round(random_range(2,6));
 if (direction == 1 && !halting){
-	direction = -1;
+	direction = 359;
 	halting = true;
-} else if(direction == -1 && !halting) {
+} else if(direction == 359 && !halting) {
 	direction = 1;
 	halting = true;
 } else if (halting){
