@@ -45,6 +45,8 @@
     {"id":{"name":"End_Room_text1","path":"fonts/End_Room_text1/End_Room_text1.yy",},},
     {"id":{"name":"End_Room_text2","path":"fonts/End_Room_text2/End_Room_text2.yy",},},
     {"id":{"name":"fnt_fira_code","path":"fonts/fnt_fira_code/fnt_fira_code.yy",},},
+    {"id":{"name":"Normal_text","path":"fonts/Normal_text/Normal_text.yy",},},
+    {"id":{"name":"Title","path":"fonts/Title/Title.yy",},},
     {"id":{"name":"obj_countdown","path":"objects/obj_countdown/obj_countdown.yy",},},
     {"id":{"name":"obj_hud_background","path":"objects/obj_hud_background/obj_hud_background.yy",},},
     {"id":{"name":"obj_pellet","path":"objects/obj_pellet/obj_pellet.yy",},},
