@@ -45,8 +45,6 @@
   },
   "name":"Wheelie Shootie",
   "resources":[
-    {"id":{"name":"End_Room_text1","path":"fonts/End_Room_text1/End_Room_text1.yy",},},
-    {"id":{"name":"End_Room_text2","path":"fonts/End_Room_text2/End_Room_text2.yy",},},
     {"id":{"name":"fnt_fira_code","path":"fonts/fnt_fira_code/fnt_fira_code.yy",},},
     {"id":{"name":"fnt_hd_50","path":"fonts/fnt_hd_50/fnt_hd_50.yy",},},
     {"id":{"name":"Normal_text","path":"fonts/Normal_text/Normal_text.yy",},},
