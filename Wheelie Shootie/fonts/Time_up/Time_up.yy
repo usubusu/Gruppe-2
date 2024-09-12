@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"End_Room_text1",
+  "%Name":"Time_up",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":14,
@@ -189,7 +189,7 @@
   "last":0,
   "lineHeight":18,
   "maintainGms1Font":false,
-  "name":"End_Room_text1",
+  "name":"Time_up",
   "parent":{
     "name":"HUD",
     "path":"folders/Sprites/HUD.yy",
