@@ -1,6 +1,7 @@
 if (debug_toggle){
 	var _arr_strings = [
-		"Turret Direction: " + string(obj_turret.direction), 
+		"Turret Direction: " + string(obj_turret.direction),
+		"Turret Rotation Timer: " + string(obj_turret.alarm[8]),
 		"Wheels Falling: " + string(instance_number(obj_wheel)),
 		"Pellets in Air: " + string(instance_number(obj_pellet)),
 		"Player Location: " + "[X: " + string(obj_player.x) +", Y: " + string(obj_player.y) + "]",

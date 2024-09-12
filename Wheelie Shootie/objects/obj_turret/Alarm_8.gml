@@ -1,4 +1,4 @@
-_random = round(random_range(2,6));
+_random = random_range(_random_min, _random_max);
 if (direction == 1 && !halting){
 	direction = 359;
 	halting = true;
