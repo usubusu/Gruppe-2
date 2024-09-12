@@ -5,10 +5,7 @@
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
-  "instanceCreationOrder":[
-    {"name":"inst_2C45CA51","path":"rooms/End_Room/End_Room.yy",},
-    {"name":"inst_5ACF774","path":"rooms/End_Room/End_Room.yy",},
-  ],
+  "instanceCreationOrder":[],
   "isDnd":false,
   "layers":[
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
