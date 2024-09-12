@@ -70,6 +70,7 @@
     {"id":{"name":"snd_start_game","path":"sounds/snd_start_game/snd_start_game.yy",},},
     {"id":{"name":"snd_stun","path":"sounds/snd_stun/snd_stun.yy",},},
     {"id":{"name":"snd_wheel_break","path":"sounds/snd_wheel_break/snd_wheel_break.yy",},},
+    {"id":{"name":"BG_Menu","path":"sprites/BG_Menu/BG_Menu.yy",},},
     {"id":{"name":"BG01","path":"sprites/BG01/BG01.yy",},},
     {"id":{"name":"Dead_Bush","path":"sprites/Dead_Bush/Dead_Bush.yy",},},
     {"id":{"name":"End_Room_background","path":"sprites/End_Room_background/End_Room_background.yy",},},
