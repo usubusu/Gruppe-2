@@ -72,6 +72,8 @@
     {"id":{"name":"snd_shoot","path":"sounds/snd_shoot/snd_shoot.yy",},},
     {"id":{"name":"snd_start_game","path":"sounds/snd_start_game/snd_start_game.yy",},},
     {"id":{"name":"snd_stun","path":"sounds/snd_stun/snd_stun.yy",},},
+    {"id":{"name":"snd_time_gain","path":"sounds/snd_time_gain/snd_time_gain.yy",},},
+    {"id":{"name":"snd_time_loss","path":"sounds/snd_time_loss/snd_time_loss.yy",},},
     {"id":{"name":"snd_wheel_break","path":"sounds/snd_wheel_break/snd_wheel_break.yy",},},
     {"id":{"name":"BG01","path":"sprites/BG01/BG01.yy",},},
     {"id":{"name":"Dead_Bush","path":"sprites/Dead_Bush/Dead_Bush.yy",},},

@@ -1,6 +1,21 @@
 draw_set_alpha(1);
 draw_set_font(fnt_hd_50);
 
+switch (STATE){
+	case 0:
+		draw_set_color(c_white);
+		break;
+	case 1:
+		draw_set_color(c_red);
+		break;
+	case 2:
+		draw_set_color(c_green);
+		break;
+	default:
+		draw_set_color(c_white);
+		break;
+}
+
 var _minutes = floor(timer/60);
 var _seconds = floor(timer%60);
 var _time = ""; 

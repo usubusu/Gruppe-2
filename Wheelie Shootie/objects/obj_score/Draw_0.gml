@@ -1,6 +1,7 @@
 global._score = _score;
 draw_set_alpha(1);
 draw_set_font(fnt_hd_50);
+draw_set_color(c_white);
 
 var _temp_score = _score;
 if _temp_score < 0 _temp_score = _temp_score*-1;
