@@ -77,6 +77,7 @@
     {"id":{"name":"snd_time_gain","path":"sounds/snd_time_gain/snd_time_gain.yy",},},
     {"id":{"name":"snd_time_loss","path":"sounds/snd_time_loss/snd_time_loss.yy",},},
     {"id":{"name":"snd_wheel_break","path":"sounds/snd_wheel_break/snd_wheel_break.yy",},},
+    {"id":{"name":"BG_Menu","path":"sprites/BG_Menu/BG_Menu.yy",},},
     {"id":{"name":"BG01","path":"sprites/BG01/BG01.yy",},},
     {"id":{"name":"Dead_Bush","path":"sprites/Dead_Bush/Dead_Bush.yy",},},
     {"id":{"name":"End_Room_background","path":"sprites/End_Room_background/End_Room_background.yy",},},
