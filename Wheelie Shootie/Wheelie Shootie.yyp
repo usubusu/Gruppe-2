@@ -67,6 +67,7 @@
     {"id":{"name":"End_Room","path":"rooms/End_Room/End_Room.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"scr_save_handler","path":"scripts/scr_save_handler/scr_save_handler.yy",},},
     {"id":{"name":"Score_and_countdown","path":"sequences/Score_and_countdown/Score_and_countdown.yy",},},
     {"id":{"name":"snd_bg","path":"sounds/snd_bg/snd_bg.yy",},},
     {"id":{"name":"snd_game_over","path":"sounds/snd_game_over/snd_game_over.yy",},},

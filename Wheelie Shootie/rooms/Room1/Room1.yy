@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"Room1",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/Room1/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -13,7 +13,7 @@
     {"name":"inst_13D4C91A","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_99F204F","path":"rooms/Room1/Room1.yy",},
   ],
-  "isDnd":false,
+  "isDnd":true,
   "layers":[
     {"$GMRAssetLayer":"","%Name":"Foreground_Sprites","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_78C6B6CB","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_78C6B6CB","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.25,"scaleY":0.25,"spriteId":{"name":"Dead_Bush","path":"sprites/Dead_Bush/Dead_Bush.yy",},"x":382.4,"y":968.80005,},

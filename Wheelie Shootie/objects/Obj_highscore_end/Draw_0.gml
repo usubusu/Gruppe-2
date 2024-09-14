@@ -16,3 +16,4 @@ __score += string(_temp_score);
 
 draw_text(x-string_width(_end_text)/2, y-string_height(_end_text)/2, _end_text);
 draw_text(x-string_width(__score)/2, y+string_height(__score)/2, __score);
+if (variable_global_exists("highscore")) draw_text(x, y, "1");
