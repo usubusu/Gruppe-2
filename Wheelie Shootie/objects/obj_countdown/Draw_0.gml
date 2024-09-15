@@ -1,5 +1,10 @@
-draw_set_alpha(1);
 draw_set_font(fnt_hd_50);
+
+if (timer > 0){
+	draw_set_alpha(1);
+} else {
+	draw_set_alpha(0);
+}
 
 switch (STATE){
 	case 0:
@@ -31,5 +36,6 @@ if (_seconds < 10) {
 } else {
 	_time += string(_seconds);
 }
+
 
 draw_text(x-string_width(_time)/2, y-string_height(_time)/2, _time);

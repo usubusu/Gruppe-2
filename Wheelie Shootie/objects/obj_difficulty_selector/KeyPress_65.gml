@@ -1,2 +1,2 @@
 global.difficulty -= 1;
-if global.difficulty < 0 global.difficulty = 2;
+if global.difficulty < 0 global.difficulty = difficulties;

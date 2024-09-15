@@ -7,16 +7,20 @@ var _text = "";
 _text += "[";
 switch (global.difficulty){
 	case 0:
-		_text += "Challenge";
+		_text += "Gamejam Legacy";
 		draw_set_color(c_orange)
 		break;
 	case 1:
-		_text += "Time Reward";
+		_text += "TR Mod Legacy";
 		draw_set_color(c_lime)
 		break;
 	case 2:
-		_text += "Not available";
-		draw_set_color(c_gray)
+		_text += "Challenge";
+		draw_set_color(c_red)
+		break;
+	case 3:
+		_text += "Time Reward 2.0";
+		draw_set_color(c_lime)
 		break;
 	default:
 		_text += "Error";
