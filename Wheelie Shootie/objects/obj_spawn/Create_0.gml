@@ -1,3 +1,16 @@
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2E387DBF
+/// @DnDArgument : "var" "global.difficulty"
+/// @DnDArgument : "value" "1"
+if(global.difficulty == 1){	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 6E91B30C
+	/// @DnDParent : 2E387DBF
+	/// @DnDArgument : "expr" "true"
+	/// @DnDArgument : "var" "time_reward"
+	time_reward = true;}
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 50FF5B5A
