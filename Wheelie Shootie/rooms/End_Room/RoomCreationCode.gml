@@ -1,0 +1,1 @@
+var _write_save = save_scores();

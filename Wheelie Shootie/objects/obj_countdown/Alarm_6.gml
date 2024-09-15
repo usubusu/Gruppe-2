@@ -30,6 +30,6 @@ if(timer <= 0){	/// @DnDAction : YoYo Games.Audio.Play_Audio
 	/// @DnDVersion : 1
 	/// @DnDHash : 6ABBFC57
 	/// @DnDParent : 109EE7BB
-	/// @DnDArgument : "room" "End_Room"
-	/// @DnDSaveInfo : "room" "End_Room"
-	room_goto(End_Room);}
+	/// @DnDArgument : "room" "rm_save_score"
+	/// @DnDSaveInfo : "room" "rm_save_score"
+	room_goto(rm_save_score);}
