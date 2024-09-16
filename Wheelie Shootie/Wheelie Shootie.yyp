@@ -74,6 +74,7 @@
     {"id":{"name":"Room1_2","path":"rooms/Room1_2/Room1_2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"scr_get_spawner","path":"scripts/scr_get_spawner/scr_get_spawner.yy",},},
+    {"id":{"name":"scr_globals","path":"scripts/scr_globals/scr_globals.yy",},},
     {"id":{"name":"scr_save_handler","path":"scripts/scr_save_handler/scr_save_handler.yy",},},
     {"id":{"name":"scr_sort_arrays_acordingly","path":"scripts/scr_sort_arrays_acordingly/scr_sort_arrays_acordingly.yy",},},
     {"id":{"name":"scr_value_to_char","path":"scripts/scr_value_to_char/scr_value_to_char.yy",},},

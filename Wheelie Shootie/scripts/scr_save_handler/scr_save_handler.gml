@@ -112,3 +112,33 @@ function load_scores(){
 		return true;
 	} else {return false;}
 }
+
+function save_scores_v2(){
+	var _file = file_text_open_write("scores.sav");
+	var _save_data_json = "";
+	if (variable_global_exists("scoreboards")){
+		_save_data_json = json_encode(global.scoreboards);
+	}
+	file_text_write_string(_file, _save_data_json);
+	file_text_close(_file);
+}
+
+function load_scores_v2(){
+	var _arr_scores;
+	for (var _i=0;_i<get_difficulties();_i++){
+		array_push(_arr_scores, ds_map_create());
+	}
+	if (file_exists("scores.sav")){
+		var _file = file_text_open_read("scores.sav");
+		var _save_data_json = file_text_read_string(_file);
+		var _save_data = json_decode(_save_data_json);
+		_arr_scores = _save_data;
+		file_text_close(_file);
+	} else {
+		var _arr_dev_scores = [800, 1560, 865, 2000];
+		for (var _i=0;_i<get_difficulties();_i++){
+			ds_map_add(_arr_scores[_i], "DEV0", _arr_dev_score[_i]);
+		}
+	}
+	global.scoreboards = _arr_scores;
+}
